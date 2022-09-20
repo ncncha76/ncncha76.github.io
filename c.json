@@ -516,7 +516,8 @@
             "searchable" : 1,
             "quickSearch" : 0,
             "filterable" : 0,
-            "ext" : "https://gitcode.net/go/TVBox/-/raw/main/json/Alist.json"
+            "ext" : "https://gitcode.net/go/TVBox/-/raw/main/json/Alist.json",
+            "jar" : "https://ncncha76.github.io//custom_spider(4).jar  
         },
             {
             "key" : "csp_bendi",
