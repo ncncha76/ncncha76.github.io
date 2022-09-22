@@ -562,12 +562,12 @@
             "key" : "AliPS",
             "name" : "📀盘搜",
             "type" : 3,
-            "api" : "csp_AliPS",
+            "api" : "csp_AliPanSou",
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
             "ext" : "8f0b3f0dc1834f309f077ea5549e99a8",
-             "jar" : "https://ncncha76.github.io/custom_spider.jar" 
+            "jar" : "https://ncncha76.github.io/custom_spider.jar" 
         },
             {
             "key" : "csp_Yiso",
